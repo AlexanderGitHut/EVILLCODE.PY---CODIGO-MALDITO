@@ -9,8 +9,6 @@ Este proyecto es una herramienta de auditoría de red desarrollada en Python par
 
 ## 🚀 Instalación en Kali Linux
 
-Para bajar el proyecto a tu máquina, usa el siguiente comando en la terminal :
-
 ```bash
 git clone [https://github.com/AlexanderGitHut/EVILLCODE.PY---CODIGO-MALDITO.git](https://github.com/AlexanderGitHut/EVILLCODE.PY---CODIGO-MALDITO.git)
 cd EVILLCODE.PY---CODIGO-MALDITO
