@@ -30,7 +30,9 @@ Pasos dentro del programa:
 Escaneo: Introduce el rango de IP (ejemplo: 192.168.1.1/24) para ver quién está conectado.
 Ataque: Ingresa la IP de la víctima y la IP del router para iniciar el envenenamiento.
 Salida: Presiona Ctrl + C para detener el ataque; el script restaurará automáticamente las tablas ARP de los dispositivos.
+
 ⚠️ Aviso Legal e Importante
 Este software ha sido creado exclusivamente con fines educativos y de aprendizaje en ciberseguridad. El uso de esta herramienta contra infraestructuras sin autorización previa es ilegal. El autor no se hace responsable del uso inadecuado de este código.
+
 👤 Autor
 Alexander - AlexanderGitHut
