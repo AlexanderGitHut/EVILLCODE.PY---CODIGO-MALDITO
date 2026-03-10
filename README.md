@@ -2,7 +2,8 @@
   <img width="250" alt="evillcode py" src="https://github.com/user-attachments/assets/0e5681d2-c8ef-4955-bab2-f6ef530ef4cc" />
 </p>
 
-<img width="946" height="360" alt="evillcode py terminal" src="https://github.com/user-attachments/assets/bf58f1da-fae7-46ce-a8d1-0be2088db0d2" />
+<img width="1024" height="362" alt="1 evillcode py terminal" src="https://github.com/user-attachments/assets/e5ff121e-ab0c-45e6-ace9-9b417e3a653d" />
+
 
 # 🛠️ EVILLCODE.PY - Network Audit & MITM Tool
 
