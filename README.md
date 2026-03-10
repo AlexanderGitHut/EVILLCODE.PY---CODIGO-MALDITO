@@ -2,9 +2,8 @@
   <img width="250" alt="evillcode py" src="https://github.com/user-attachments/assets/0e5681d2-c8ef-4955-bab2-f6ef530ef4cc" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/69c94c04-2cc3-4126-ad4c-3a891d8cefbb" alt="Menú de EVILLCODE.PY" width="750">
-</p>
+<img width="946" height="360" alt="evillcode py terminal" src="https://github.com/user-attachments/assets/bf58f1da-fae7-46ce-a8d1-0be2088db0d2" />
+
 # 🛠️ EVILLCODE.PY - Network Audit & MITM Tool
 
 Este proyecto es una herramienta de auditoría de red desarrollada en Python para realizar escaneos de dispositivos y pruebas de penetración mediante envenenamiento ARP (ARP Spoofing).
