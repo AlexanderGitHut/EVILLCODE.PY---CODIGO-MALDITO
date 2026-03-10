@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="terminal.png" alt="Terminal de EVILLCODE" width="800">
+  <img src="https://github.com/user-attachments/assets/0e5681d2-c8ef-4955-bab2-f6ef530ef4cc" alt="Terminal de EVILLCODE" width="700">
 </p>
 # 🛠️ EVILLCODE.PY - Network Audit & MITM Tool
 
