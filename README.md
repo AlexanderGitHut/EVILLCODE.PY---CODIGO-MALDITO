@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f2d25c0-be54-4e95-a25a-1d3a3bf3660f" alt="Imagen de evillcode" width="350" />
+  <img src="https://github.com/user-attachments/assets/7f2d25c0-be54-4e95-a25a-1d3a3bf3660f" alt="Imagen de evillcode" width="500" />
 </p>
 <img width="1024" height="362" alt="Imagen Proyecto Evillcode" src="https://github.com/user-attachments/assets/d9ed4397-c0f0-423c-823f-c14d214daa56" />
 
