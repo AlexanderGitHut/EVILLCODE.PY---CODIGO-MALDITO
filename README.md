@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/evillcode.png" alt="open source EVILCODE" width="400"/>
+  <img src="./assets/evillcode.png" width="400" style="background-color: white; padding: 10px; border-radius: 10px;">
 </p>
-
 <img width="1024" height="362" alt="1 evillcode py terminal" src="https://github.com/user-attachments/assets/e5ff121e-ab0c-45e6-ace9-9b417e3a653d" />
 
 
