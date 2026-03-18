@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" alt="evillcode py" src="https://github.com/user-attachments/assets/0e5681d2-c8ef-4955-bab2-f6ef530ef4cc" />
+  <img src="assets/evillcode.png" alt="open source EVILCODE" width="400"/>
 </p>
 
 <img width="1024" height="362" alt="1 evillcode py terminal" src="https://github.com/user-attachments/assets/e5ff121e-ab0c-45e6-ace9-9b417e3a653d" />
